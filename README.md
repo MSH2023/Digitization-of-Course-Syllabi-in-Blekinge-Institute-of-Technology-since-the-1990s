@@ -1,14 +1,11 @@
 [![DOI](https://zenodo.org/badge/471756787.svg)](https://zenodo.org/badge/latestdoi/471756787)
 
-# DCHM-template
+# Digitization of Course Syllabi in Blekinge Institute of Technology since the 1990s
 
-This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
-But it can be used by anyone who wants to try GitHub Pages to publishing a simple HTML-based website.
+The digitization of course syllabi in BTH since the 1990s involve the conversion of paper-based syllabi into digital formats, making it easier for students and faculty to access and use them remotely.
 
 🚀[Visit the Website](https://msh2023.github.io/Digitization-of-Course-Syllabi-in-Blekinge-Institute-of-Technology-since-the-1990s/) if you want to see what the published version of this repository looks like.
-
-An example of what the template can turn into can be found in Wout's [DIY-frankensTEIn](https://woutdln.github.io/DIY-frankensTEIn/index.html) repository.
-For more information on the template and how to get started yourself, please refer to [the repository's wiki](https://github.com/WoutDLN/DCHM-template/wiki).  
+ 
 
 ## About the Developer
 This repository was originally developed by [Wout Dillen](https://github.com/WoutDLN) as a teaching tool in the Digitising Cultural Heritage Materials course at the [University of Borås](https://www.hb.se/), where he currently works as a Senior Lecturer in Library and Information Science. 
