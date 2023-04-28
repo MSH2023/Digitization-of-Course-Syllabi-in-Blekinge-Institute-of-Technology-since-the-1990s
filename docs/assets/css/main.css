@@ -6,7 +6,10 @@ body {
 	line-height: 1.25;
 	font-size: 1vw;
   width: 100%;
+	display: flex;
+  justify-content: center;
 	text-align: center;
+	
 	}
 
 h1, h2, h3, nav, footer {
