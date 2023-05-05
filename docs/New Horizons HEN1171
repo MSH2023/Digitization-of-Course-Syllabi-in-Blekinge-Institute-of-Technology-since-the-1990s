@@ -1,0 +1,77 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8">
+      <title></title>
+      <style type="text/css">
+					body {margin : 10% ; font-size : 13pt; }
+				 
+				 li { margin-bottom : 1em ; margin-top : 1em}
+				  
+				  ::marker {
+				  content: counters(list-item,'.') '. ';
+				  font-weight: bold;
+				  }
+				</style>
+   </head>
+   <body>
+      <div style="float:left;width:40%">
+         HÖGSKOLAN I KARSKRONA/RONNEBY <br>
+         Institutionen för humaniora 
+      </div>
+      <div style="float:left;width:40%;margin-bottom:3em"><span style="font-weight : 700">KURSPLAN <br> 1998-02-16</span><br><span style="font-weight : 700">Dnr: </span><span style="font-variant:small-caps">IsHu 98:27</span></div>
+      <div class="head" style="clear:both;text-align:center">
+         <h1>Kursplan för New Horizons</h1>
+         <hr>
+         <h2>New Horizons</h2>
+         <h3>5 poäng (1-5 poäng)</h3>
+         <h3></h3>
+         <hr>
+      </div>
+      <div class="basic_values" style="clear:both">
+         <!-- Utbildningsnivå och Fördjupning: kurser skall enligt högskoleförordningen delas in i grundläggande (G) resp. avancerade (A) nivå. Källa: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://suhf.se/app/uploads/2022/11/REK-2008-25-med-fortydligande-2020-02-05-_rek-for-att-underlatta-studenters-mojligheter-till-rorlighet-mellan-olika-larosaten-i-Sverige.pdf --> 
+         <!--Undervisningsspråket har tagits bort eftersom informationen inte finns i kursplanerna.-->
+         <div style="float:left;width:40%"><span style="font-weight : 700">Kurskod: HEN117</span><br><span style="font-weight : 700">Huvudområde: Kursen ingår inte i något huvudområdet på BTH </span><br><span style="font-weight : 700">Utbildningsområde: Humaniora</span><br><span style="font-weight : 700">Utbildningsnivå: Avancerad nivå </span><br><span style="font-weight : 700">Fördjupning: A-nivå </span></div>
+         <div style="float:left;width:40%"><span style="font-weight : 700">Ämnesgrupp: Engelska</span><br><span style="font-weight : 700">Gäller från: 1998-04-06</span><br><span style="font-weight : 700">Fastställd: 1998-04-06</span></div>
+      </div>
+      <hr style="clear:both">
+      <div class="body">
+         <ol>
+            <li>Fastställande benämning och giltighet</li>
+            <dl>Institutionsstyrelsen för humaniora har genom beslut 1998-04-06 fastställt kursplanen för New 
+               Horizons, 5 poäng (1-5 poäng).<br>
+               Kursplanen gäller från 1998-04-06 tills vidare.</dl>
+            <li>Inplacering inom utbildning<br></li>
+            <dl>Kursen ges som fristående kurs.<br>
+               Nivå: A-nivå, 1-20 poäng, i ämnet engelska.</dl>
+            <li>Kursens syfte och innehåll
+               <ol>
+                  <li class="nested"><span style="">Syfte</span><br></li>
+                  <dl> Kursens syfte är att ge studerande som ej i första hand siktar mot akademiska poäng i engelska 
+                     kunskaper om de engelskspråkiga länderna, deras kultur, samhällsliv och litteratur, och 
+                     samtidigt utöka sitt ordförråd och förbättra sin talfärdighet och sin förmåga att tillgodogöra sig engelsk text.</dl>
+                  <li>Innehåll</li>
+               </ol>
+            </li>
+            <li>Lärandemål
+               							
+               						
+               <ol>
+                  <li>Undervisning</li>
+                  <dl>Undervisningen sker i form av föreläsningar och övningar. </dl>
+                  <li>Läromedel</li>
+                  <dl> Se separat läromedelsförteckning.</dl>
+               </ol>
+            </li>
+            <li>Förkunskaper<br></li>
+            <dl>Förutom grundläggande behörighet krävs följande:<br>
+               Från nya gymnasieskolan: En B (Standardbehörighet C.1, undantag svenska).<br>
+               Från gamla gymnasieskolan: 3 åk engelska med lägst betyget 3 eller motsvarande kunskaper.</dl>
+            <li>Examination</li>
+            <dl>Tentamensformen, muntlig och / eller skriftlig, kan variera.
+               Vid betygssättning används något av betygen Väl Godkänd, Godkänd eller Underkänd.</dl>
+         </ol>
+      </div>
+   </body>
+</html>
