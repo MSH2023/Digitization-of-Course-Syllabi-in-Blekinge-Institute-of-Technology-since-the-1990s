@@ -30,15 +30,13 @@ h3 {
 }
 
 #about {text-align: center;
+
+margin: auto;
   position: absolute;
-      text-align-last: center;
-	
-    margin: 0;
-    padding: 0;
-	top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0; 
 
 }
 
