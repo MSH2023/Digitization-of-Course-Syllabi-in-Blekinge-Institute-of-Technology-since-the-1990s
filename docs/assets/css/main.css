@@ -29,14 +29,16 @@ h3 {
     
 }
 
-#about {text-align: center;
-
-margin: auto;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0; 
+#about {position: absolute; 
+	top: 0; 
+	left: 0; 
+	right: 0; 
+	left: 0; 
+	text-align: center; 
+	border: 1px solid #ccc; 
+	height: 100%; 
+	width: 100%; 
+	vertical-align: middle;
 
 }
 
