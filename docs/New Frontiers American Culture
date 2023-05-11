@@ -1,0 +1,70 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"/>
+      <title></title>
+      <style type="text/css">
+					body {margin : 10% ; font-size : 13pt; }
+				 
+				 li { margin-bottom : 1em ; margin-top : 1em}
+				  
+				  ::marker {
+				  content: counters(list-item,'.') '. ';
+				  font-weight: bold;
+				  }
+				</style>
+   </head>
+   <body>
+      <div style="float:left;width:40%">
+         <!--<br/> element produces a line break in text.-->
+         HÖGSKOLAN i KARLSKRONA/RONNEBY <br/>
+                        Institutionen för humaniora
+                     </div>
+      <div style="float:left;width:40%;margin-bottom:3em"><span style="font-weight : 700">KURSPLAN <br/> 2000-02-01</span><br/><span style="font-weight : 700">Dnr: </span><span style="font-variant:small-caps">IsHu 00:22</span></div>
+      <div class="head" style="clear:both;text-align:center">
+         <h1>Kurrsplan för New Frontiers American Culture sinne 1960 in Literature and Film,
+            1-5 poäng, HEN118</h1>
+         <!--a thematic break in an HTML page.-->
+         <hr/>
+         <h2>New Frontiers: American Culture since 1960 in Literature and Film</h2>
+         <h3>1-5 poäng</h3>
+         <hr/>
+      </div>
+      <div class="basic_values" style="clear:both">
+          <!-- Utbildningsnivå och Fördjupning: kurser skall enligt högskoleförordningen delas in i grundläggande (G) resp. avancerade (A) nivå. Källa: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://suhf.se/app/uploads/2022/11/REK-2008-25-med-fortydligande-2020-02-05-_rek-for-att-underlatta-studenters-mojligheter-till-rorlighet-mellan-olika-larosaten-i-Sverige.pdf --> 
+         <!--Undervisningsspråket har tagits bort eftersom informationen inte finns i kursplanen.-->
+         <div style="float:left;width:40%"><span style="font-weight : 700">Kurskod: HEN118</span><br/><span style="font-weight : 700">Huvudområde: Kursen ingår inte i något huvudområdet på BTH</span><br/><span style="font-weight : 700">Utbildningsområde: Humaniora</span><br/><span style="font-weight : 700">Utbildningsnivå: Avancerad nivå</span><br/><span style="font-weight : 700">Fördjupning: A-nivå</span></div>
+         <div style="float:left;width:40%"><span style="font-weight : 700">Ämnesgrupp: Engelska</span><br/><span style="font-weight : 700">Gäller från: 2000-02-08</span><br/><span style="font-weight : 700">Fastställd: 2000-MM-DD</span></div>
+      </div>
+      <hr style="clear:both"/>
+      <div class="body">
+         <ol>
+            <li><strong>Fastställande, benämnning och giltighet<br/></strong>Institutionsstyrelsen för humaniora har genom beslut 2000-MM-DD fastställt 
+               kursplanen för American Culture since 1960 in Literature and Film, 1-5 poäng. <br/>Kursplanen gäller från 2000-02-08 och tills vidare.</li>
+            <li><strong>Inplacering inom utbildning<br/></strong>Kursen ges som fristående kurs på halvfart.<br/>Nivå: A-nivå i ämnet engelska.<br/></li>
+            <li><strong>Kursens syfte och innehåll<br/></strong> Kursens syfte och mål är att de studerande ska utveckla sina färdigheter i att
+                  förstå och använda det engelska språket i tal och skrift och fordjupa sin kunskap av samtidens Amerikansk kultur.		
+            </li>
+            <li><strong>Undervisning och läromedel</strong>
+               <ol>
+                  <li class="nested"><strong>Undervisning</strong><br/>Undervisningen sker i form av föreläsningar, diskussioner och video 
+                     visningar.</li>
+                  <li><strong>läromedel<br/></strong>Se separat litteraturförteckning.</li>
+               </ol>					
+            </li>
+            <li><strong>Förkunskaper<br/></strong>Grundläggande behörighet.</li>
+            <li><strong>Examination<br/></strong>Tentamensformen är skriftlig. För godkänt betyg krävs dessutom aktivt deltagande i 
+               minst 75% av kursen.<br/>Vid betygssättningen används något av betygen Väl godkänd, Godkänd eller 
+               Underkänd.</li>
+         </ol>
+         <!--To access easier to home page-->
+         <a href="https://msh2023.github.io/Digitization-of-Course-Syllabi-in-Blekinge-Institute-of-Technology-since-the-1990s/">Tillbaka till startsidan</a>
+      </div>
+       <!--This document was successfully checked.-->
+       <p>
+         <a href="http://validator.w3.org/check?uri=referer"><img
+           src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+       </p>
+   </body>
+</html>
