@@ -8,5 +8,5 @@ The digitization of course syllabi in BTH since the 1990s involve the conversion
  
 
 ## About the Developer
-This repository was initially established by [Wout Dillen](https://github.com/WoutDLN) as a teaching tool in the Digitising Cultural Heritage Materials course at the [University of Borås](https://www.hb.se/), where he currently works as a Senior Lecturer in Library and Information Science. 
-Another key contributor to the repository's development is Maryam Shabanzad, an academic librarian at Blekinge Institute of Technology.
+The repository was initially established by [Wout Dillen](https://github.com/WoutDLN) as a teaching tool in the Digitising Cultural Heritage Materials course at the [University of Borås](https://www.hb.se/).It was later developed by Maryam Shabanzad, a librarian at Blekinge Institute of Technology, who made significant contributions to its development and maintenance.
+
